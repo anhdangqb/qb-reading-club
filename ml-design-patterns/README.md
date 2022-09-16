@@ -11,6 +11,7 @@ Source: https://learning.oreilly.com/library/view/machine-learning-design/978109
 ## Reading group: Covered contents
 1. [Chap02-data-representation.md](Chap02-data-representation.md)
 2. [Chap04-model-training.md](Chap04-model-training.md)
+3. [Chap07-responsible-ai](Chap07-responsible-ai)
 
 Source code
 
