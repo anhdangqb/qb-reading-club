@@ -11,6 +11,9 @@ Design patterns:
 
 - [1 - Useful overfitting](##1---useful-overfitting)
 - [2 - Checkpoints](##2---checkpoints)
+- [3 - Transfer learning](##3---transfer-learning)
+- [4 - Distribution strategy](##4---distribution-learning)
+- [5 - Hyperparameter tuning](##5---hyperparameter-tuning)
 
 
 ## 1 - Useful overfitting
