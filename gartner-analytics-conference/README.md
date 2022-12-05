@@ -1,0 +1,1 @@
+# Gartner Analytics Summit 2022 Takeaways
