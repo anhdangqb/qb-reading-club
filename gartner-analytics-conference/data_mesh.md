@@ -1,6 +1,6 @@
 # Data Mesh
 
-![Data Mesh Illustrative](./data_mesh_illustrative.png)
+![Data Mesh Illustrative](./images/data_mesh_illustrative.png)
 
 * **Data mesh** is an organization design & implementation approach to deploy data platform (e.g data warehouse, data lake, ETL, etc.)
 * **Motivation**:

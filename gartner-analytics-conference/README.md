@@ -6,5 +6,5 @@ Press release: [Gartner Data & Analytics Summit 2022](https://www.gartner.com/en
 
 ## Reading group: Covered contents
 
-1. [Takeaways: Decision Intelligence](readings/gartner-decision-intelligence.md)
-2. 
+1. [Takeaways: Decision Intelligence](./gartner-decision-intelligence.md)
+2. [Takeaways: Data Mesh](./gartner-data-mesh.md)
